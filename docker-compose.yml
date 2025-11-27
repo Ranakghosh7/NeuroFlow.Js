@@ -1,0 +1,8 @@
+version: '3.8'
+services:
+neuroflow:
+build: .
+container_name: neuroflow
+volumes:
+- .:/app
+command: ["node", "src/main.js"]

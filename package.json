@@ -1,0 +1,13 @@
+{
+"name": "neuroflow.js",
+"version": "1.0.0",
+"main": "src/main.js",
+"type": "module",
+"scripts": {
+"start": "node src/main.js",
+"docker": "docker build -t neuroflow ."
+},
+"dependencies": {
+"@tensorflow/tfjs-node": "^4.20.0"
+}
+}
