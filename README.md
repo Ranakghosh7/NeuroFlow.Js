@@ -11,7 +11,7 @@ This README contains:
 * ML theory summaries
 * Installation & Docker usage
 * Extensive documentation
-* Algorithm explanations
+* Algorithm explanations 
 * Future roadmap
 * Research relevance
 
